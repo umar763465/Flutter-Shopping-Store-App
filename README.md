@@ -85,7 +85,7 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/umar763465/flutter-shopping-app.git
+git clone https://github.com/umarjawad123/flutter-shopping-app.git
 
 Navigate to project folder:
 cd flutter-shopping-app
